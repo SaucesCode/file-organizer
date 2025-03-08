@@ -18,4 +18,4 @@ This is a simple tool that allows users to select a directory and process files.
 ## 🚀 Development
 If you are a developer and want to modify this tool:
 ```sh
-git clone [https://github.com/YOUR-USERNAME/YOUR-REPO.git](https://github.com/SaucesCode/file-organizer.git)
+git clone https://github.com/SaucesCode/file-organizer.git
