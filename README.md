@@ -15,6 +15,8 @@ This is a simple tool that allows users to select a directory and process files.
 - If Windows gives a **security warning**, click **"More info" > "Run anyway"**.
 - If you see an error, make sure you have **read/write permissions** for the directory.
 
+## 🤖 Created with ChatGPT
+
 ## 🚀 Development
 If you are a developer and want to modify this tool:
 ```sh
